@@ -1,6 +1,5 @@
 json
 {
-    "$schema": "https://railway.com/railway.schema.json",
     "build": {
         "build": "NIXPACKS"
     },
